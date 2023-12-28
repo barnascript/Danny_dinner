@@ -205,6 +205,7 @@ Each of the following case study questions can be answered using a single SQL st
   </ol>
 
 
+### click <a href="https://github.com/barnascript/Danny_dinner/blob/main/danny.sql">here</a> to see all the code
 
   ``` CREATE SALES TABLE
   DROP TABLE IF EXISTS danny_dinner;
